@@ -1,0 +1,6 @@
+[submodule "DCN"]
+	path = DCN
+	url = https://github.com/cvlab-tohoku/Dense-CoAttention-Network.git
+[submodule "taskonomy"]
+	path = taskonomy
+	url = https://github.com/StanfordVL/taskonomy.git
